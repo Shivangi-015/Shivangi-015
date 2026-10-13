@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hey, I'm Shivangi! 👋
 
-🎓 I'm a final-year B.Tech IT student at MITS Gwalior who enjoys building projects, learning new technologies, and solving problems through code.
+🎓 I'm a final-year B.Tech IT student who enjoys building projects, learning new technologies, and solving problems through code.
 
 ### 💻 What I'm working on
 Currently exploring full-stack development, AI-powered applications, and building projects that solve real-world problems. I'm also strengthening my DSA and software development skills.
