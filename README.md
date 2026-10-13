@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Shivangi-015/Shivangi-015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +27,6 @@ Currently exploring full-stack development, AI-powered applications, and buildin
 
 ### 📫 Let's connect!
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/shivangi-bansal-s01)
-- **GitHub:** [Check out my projects](https://github.com/)
+- **GitHub:** [Check out my projects](https://github.com/Shivangi-015)
 
 Always happy to connect, collaborate, and learn something new! ✨
